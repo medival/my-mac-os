@@ -35,7 +35,7 @@ I have [extensive wiki](https://wiki.nikitavoloboev.xyz) where I share [everythi
 
 ### Changing themes
 
-I made [KM macro](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro/km-macros) with [this AppleScript](https://www.macobserver.com/tips/quick-tip/change-light-dark-mode-applescript-app/) to switch between light/dark macOS appearances. As appearances are switched, the themes get updated accordingly on most apps (Notion, Discord & Sublime Merge sadly still don't let you change their theme according to OS setting). So as most sites don't use [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme) CSS feature to change the look of sites from light to dark automatically. Hope it changes in future.
+I made [KM macro](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maestro/km-macros) with [this AppleScript](https://www.macobserver.com/tips/quick-tip/change-light-dark-mode-applescript-app/) to switch [between light/dark macOS appearances](https://twitter.com/nikitavoloboev/status/1311336647338983432). As appearances are switched, the themes get updated accordingly on most apps.
 
 ### Productivity
 
@@ -59,27 +59,13 @@ I made [KM macro](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maes
 
 - Described in [wiki](https://wiki.nikitavoloboev.xyz/macos/macos-apps/1password).
 
-#### [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions
-
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/macos/macos-apps/typinator).
-
 #### [BetterTouchTool](https://www.boastr.net/) - Mac input customizer
 
 - Described in [wiki](https://wiki.nikitavoloboev.xyz/macos/macos-apps/bettertouchtool).
 
-#### [PDF Expert](https://pdfexpert.com/) - PDF reader/editor
-
-- I read a lot of PDFs like books, research papers and the like. I like that it lets me have multiple tabs, sepia/dark mode, nice annotation tools & has great search.
-
 #### [Fantastical](https://flexibits.com/fantastical) - Calendar
 
 - Described in [wiki](https://wiki.nikitavoloboev.xyz/macos/macos-apps/fantastical).
-
-#### [Contexts](https://contexts.co) - Window switcher
-
-- Allows me to fuzzy search through all the currently active windows. Most apps I open directly via Karabiner but for other times it's great to fuzzy search through all open windows.
-
-![](https://i.imgur.com/0RBooBz.png)
 
 #### [Dictionary](<http://en.wikipedia.org/wiki/Dictionary_(software)>)
 
@@ -122,7 +108,7 @@ I made [KM macro](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maes
 
 #### [Linear](https://linear.app/) - Issue tracker
 
-- Love using it for working in teams on bigger projects.
+- Nice private project tracker. I like to use GitHub issues primarily for projects.
 
 ### Code
 
@@ -132,7 +118,7 @@ I made [KM macro](https://wiki.nikitavoloboev.xyz/macos/macos-apps/keyboard-maes
 
 #### [iTerm](https://www.iterm2.com/) - Terminal Emulator
 
-- Described in [wiki](https://wiki.nikitavoloboev.xyz/text-editors/vs-code).
+- Described in [wiki](https://wiki.nikitavoloboev.xyz/macos/macos-apps/iterm).
 
 #### [Sublime Text](https://www.sublimetext.com) - Text Editor
 
@@ -276,6 +262,8 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 - [wifi-password](https://github.com/rauchg/wifi-password) - Get the password of the WiFi you're on.
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes.
 - [ran](https://github.com/m3ng9i/ran) - Simple static web server written in Go.
+- [mcfly](https://github.com/cantino/mcfly) - Fast visual command history search.
+- [hyperfine](https://github.com/sharkdp/hyperfine) - Excellent command-line benchmarking tool.
 
 ## Launchpad
 
@@ -286,13 +274,13 @@ I curate a list of [interesting CLI tools](https://github.com/learn-anything/com
 If you found this interesting, I also have [similar repository](https://github.com/nikitavoloboev/my-ios) going over what applications I use on iOS/WatchOS as well as how and why I use them.
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-	<img width="250" heigth="400" src="https://i.imgur.com/SznJcRX.png"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/Kkv5ral.png"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-	<img width="250" heigth="400" src="https://i.imgur.com/SY2wgkD.jpg"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/IzVAy2F.png"></a>
 
 <a align="center" href="https://github.com/nikitavoloboev/my-ios">
-	<img width="250" heigth="400" src="https://i.imgur.com/E1swqTM.png"></a>
+    <img width="250" heigth="400" src="https://i.imgur.com/LiILeEK.jpg"></a>
 
 ## Similar Setups
 
